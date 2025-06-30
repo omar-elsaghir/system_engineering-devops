@@ -1,0 +1,23 @@
+total 83
+drwx------. 3 u0_a410 u0_a410 3488 Jun 27 12:09 .
+drwx------. 7 u0_a410 u0_a410 3488 Jun 26 18:13 ..
+-rwx------. 1 u0_a410 u0_a410   32 Jun 26 16:17 0-hello_world
+-rwx------. 1 u0_a410 u0_a410   30 Jun 26 17:38 1-confused_smiley
+-rwx------. 1 u0_a410 u0_a410   48 Jun 27 11:44 10-no_more_js
+-rwx------. 1 u0_a410 u0_a410   28 Jun 26 18:32 2-hellofile
+-rwx------. 1 u0_a410 u0_a410   39 Jun 26 18:40 3-twofiles
+-rwx------. 1 u0_a410 u0_a410   29 Jun 26 18:43 4-lastlines
+-rwx------. 1 u0_a410 u0_a410   29 Jun 26 18:46 5-firstlines
+-rwx------. 1 u0_a410 u0_a410   40 Jun 26 18:49 6-third_line
+-rwx------. 1 u0_a410 u0_a410   90 Jun 26 18:56 7-file
+-rwx------. 1 u0_a410 u0_a410   36 Jun 27 12:11 7-save_current_state
+-rwx------. 1 u0_a410 u0_a410   33 Jun 26 19:07 8-cwd_script
+-rwx------. 1 u0_a410 u0_a410   41 Jun 26 23:53 8-cwd_state
+-rwx------. 1 u0_a410 u0_a410   37 Jun 27 11:41 9-duplicate_last_line
+-rw-------. 1 u0_a410 u0_a410   52 Jun 26 18:06 README.md
+-rw-------. 1 u0_a410 u0_a410   12 Jun 26 18:57 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)
+-rw-------. 1 u0_a410 u0_a410   66 Jun 27 11:34 iacta
+-rw-------. 1 u0_a410 u0_a410   42 Jun 27 00:06 iacta.bak
+-rw-------. 1 u0_a410 u0_a410   36 Jun 27 10:42 iacta.test
+-rw-------. 1 u0_a410 u0_a410    0 Jun 27 12:12 ls_cwd_content
+drwx------. 2 u0_a410 u0_a410 3488 Jun 27 11:45 test_js_dir
